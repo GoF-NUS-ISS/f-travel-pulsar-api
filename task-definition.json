@@ -46,10 +46,10 @@
       }
     ],
 
-    "cpu": "256",
+    "cpu": "512",
     "executionRoleArn": "arn:aws:iam::356567610291:role/ecsTaskExecutionRole",
     "family": "f-task-def-travel-plan-pulsar-api",
-    "memory": "512",
+    "memory": "2048",
     "networkMode": "awsvpc",
     "requiresCompatibilities": [ 
         "FARGATE" 
